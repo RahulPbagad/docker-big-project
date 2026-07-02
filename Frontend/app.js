@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "http://43.204.235.53:5000";
 
 async function loadStudents() {
 

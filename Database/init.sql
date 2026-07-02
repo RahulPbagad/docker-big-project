@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS  students (
 ) ;
 
 CREATE TABLE IF NOT EXISTS items (
-    id SEREAL PRIMARY KEY,
+    id SERIAL PRIMARY KEY,
     name VARCHAR(255),
     decription TEXT
 ); 
